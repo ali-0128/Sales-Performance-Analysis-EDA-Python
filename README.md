@@ -95,3 +95,6 @@ The analysis identifies revenue drivers across geographies, customers, and produ
 | NumPy | Numerical operations |
 | Plotly | Interactive charts |
 | Matplotlib + Seaborn | Static distribution plots |
+
+Project Overview
+https://nbviewer.org/github/ali-0128/Sales-Performance-Analysis-EDA-Python/blob/main/sales_analysis.ipynb
